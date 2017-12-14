@@ -1,2 +1,3 @@
 #/usr/bin/python
 print('hello world')
+str = input('请输入你的名字')
